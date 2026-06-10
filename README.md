@@ -289,13 +289,13 @@ If you'd like to improve this project:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**SUSHANTH BANDARUPALLI**
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [sushanthbandarupalli4444@gmail.com](mailto:sushanthbandarupalli4444@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: [https://linkedin.com/in/sushanth](https://www.linkedin.com/in/sushanth-bandarupalli-18019b259/)
 
-🐙 GitHub: https://github.com/yourusername
+🐙 GitHub: [https://github.com/sushanthbandarupalli](https://github.com/sushanthbandarupalli)
 
 ---
 
